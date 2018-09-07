@@ -1,0 +1,11 @@
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\bin\Debug\netcoreapp2.0\parkingappApi.deps.json
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\bin\Debug\netcoreapp2.0\parkingappApi.runtimeconfig.json
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\bin\Debug\netcoreapp2.0\parkingappApi.runtimeconfig.dev.json
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\bin\Debug\netcoreapp2.0\parkingappApi.dll
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\bin\Debug\netcoreapp2.0\parkingappApi.pdb
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\obj\Debug\netcoreapp2.0\parkingappApi.csproj.CoreCompileInputs.cache
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\obj\Debug\netcoreapp2.0\parkingappApi.AssemblyInfoInputs.cache
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\obj\Debug\netcoreapp2.0\parkingappApi.AssemblyInfo.cs
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\obj\Debug\netcoreapp2.0\parkingappApi.dll
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\obj\Debug\netcoreapp2.0\parkingappApi.pdb
+C:\Users\wwabd\Desktop\ReactApp\parkingapp\parkingappApi\obj\Debug\netcoreapp2.0\parkingappApi.csprojResolveAssemblyReference.cache
